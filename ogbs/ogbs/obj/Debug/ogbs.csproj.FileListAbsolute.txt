@@ -1,0 +1,13 @@
+C:\Users\rizat\Desktop\ogbs\ogbs\bin\Debug\ogbs.exe.config
+C:\Users\rizat\Desktop\ogbs\ogbs\bin\Debug\ogbs.exe
+C:\Users\rizat\Desktop\ogbs\ogbs\bin\Debug\ogbs.pdb
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.csproj.AssemblyReference.cache
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.Properties.Resources.resources
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.csproj.GenerateResource.cache
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.csproj.CoreCompileInputs.cache
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.exe
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.pdb
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.Form1.resources
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.ogrenci.resources
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.ogretmen.resources
+C:\Users\rizat\Desktop\ogbs\ogbs\obj\Debug\ogbs.memur.resources
